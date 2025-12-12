@@ -100,26 +100,16 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-amjad-6b655719b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:omaramjd7@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio logo" />
-  </a>
 </div>
 
 ###
 
-<h2 align="left">📝 Latest Blog Posts</h2>
-
-###
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</div>
 
 <p align="center">⚡ Always learning, always building!</p>
 
