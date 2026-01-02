@@ -87,10 +87,9 @@
 ###
 
 <p align="left">
-🔭 **E-Commerce Platform** - Full-stack MERN application with user authentication, payment integration, and admin dashboard<br>
-🌟 **Task Management App** - ASP.NET Core + React application with real-time updates<br>
-📱 **Expense Tracker** - Mobile-responsive React app with Node.js backend and MongoDB<br>
-🎮 **Multiplayer Game Lobby** - Real-time application using Socket.io and Express.js
+🔭 **Vibes** - Full-stack MERN application with user authentication, payment integration, and admin dashboard<br>
+🏆 **Football-Management-System** -  <br>
+📱 **Flavor Table** - Fullstack app that allow for the user to see the recipes and change it<br>
 </p>
 
 ###
