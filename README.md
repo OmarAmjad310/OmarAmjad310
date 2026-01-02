@@ -87,8 +87,11 @@
 ###
 
 <p align="left">
+  
 🔭 **Vibes** - a social media platform where it supports mental health by giving the users the space and the chance to express their emotions and be open with people about their problems using Full-stack MERN application<br>
+  
 🏆 **Football-Management-System** - A full-stack web application for managing football teams, players, matches, and coaches. Built with Node.js, React, and PostgreSQL, this system allows users to perform full CRUD operations on key football entities <br>
+
 📱 **Flavor Table** - Fullstack app that allow for the user to see the recipes and change it<br>
 </p>
 
